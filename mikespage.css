@@ -1,0 +1,27 @@
+
+img {
+    width: 100%;
+    height: auto;
+
+}
+
+
+
+.logo {
+    width: auto;
+    height: 40px;
+    
+}
+
+.nav {
+    display: flex;
+    align-items: center
+}
+
+.nav__links {
+    display: flex;
+    align-items: center;
+    
+    
+  }
+
